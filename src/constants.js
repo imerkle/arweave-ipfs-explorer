@@ -1,4 +1,3 @@
 
-//export const API = "https://3b565264.ngrok.io";
-export const API = "";
-export const MAX_SIZE_SHOW = 10000000;
+//export const API = "https://4db00386.ngrok.io";
+export const API = "http://localhost:3001";
